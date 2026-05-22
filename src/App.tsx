@@ -587,7 +587,7 @@ function Footer() {
       </div>
       <div className="text-center md:text-right">
         <p className="text-[10px] opacity-40 mb-1">이름을 잊은 자들이 우물 아래에서 부른다.</p>
-        <p className="text-[10px] text-ghost italic tracking-widest">가면을 벗기는 것은 고백이고, 이름을 기억하는 것은 구원이다.</p>
+        <p className="text-[10px] text-ghost italic tracking-widest">흑사포를 벗기는 것은 고백이고, 이름을 기억하는 것은 구원이다.</p>
       </div>
     </footer>
   );
@@ -616,7 +616,7 @@ export default function App() {
             <span className="font-title">보름 (Full Moon) : 저주가 약해짐</span>
           </div>
           <a
-            href="https://crack.wrtn.ai/detail/6a04153e4a59cb34a2664f6a"
+            href="https://crack.wrtn.ai/detail/6a0d5b778f97817bdeb62f46"
             target="_blank"
             rel="noopener noreferrer"
             className="px-3 py-1.5 md:px-4 md:py-1.5 border border-talisman text-talisman text-[10px] md:text-xs hover:bg-talisman hover:text-white transition-all uppercase tracking-widest"
@@ -639,13 +639,13 @@ export default function App() {
         
         <div className="py-24 flex justify-center">
           <a
-            href="https://crack.wrtn.ai/detail/6a04153e4a59cb34a2664f6a"
+            href="https://crack.wrtn.ai/detail/6a0d5b778f97817bdeb62f46"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center justify-center px-8 md:px-12 py-4 md:py-6 bg-transparent border border-talisman/50 text-talisman font-title text-xl md:text-2xl tracking-widest overflow-hidden transition-all hover:border-talisman hover:shadow-[0_0_20px_rgba(139,37,30,0.4)]"
           >
             <span className="absolute inset-0 bg-talisman/10 translate-y-[100%] group-hover:translate-y-0 transition-transform duration-300"></span>
-            <span className="relative z-10 group-hover:text-white transition-colors duration-300">구원하러 가기</span>
+            <span className="relative z-10 group-hover:text-white transition-colors duration-300">구원하시겠습니까?</span>
           </a>
         </div>
       </main>
